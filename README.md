@@ -1,5 +1,5 @@
 ## Descrição
-Este projeto tem como objetivo realizar diversas análises de dados de vendas fictícios, utilizando técnicas de manipulação de dados e visualização gráfica. As análises foram realizadas com base em um conjunto de dados de vendas, e os resultados foram apresentados em tabelas e gráficos para facilitar a interpretação.
+Este projeto tem como objetivo realizar diversas análises de dados de vendas fictícias utilizando técnicas de engenharia de prompts. O arquivo fictício base para o projeto foi gerado com o ChatGPT e os prompts para criação de tabelas e gráficos foram realizados utilizando o Copilot. As análises foram realizadas com base em um conjunto de dados de vendas, e os resultados foram apresentados em tabelas e gráficos para facilitar a interpretação.
 
 ## Estrutura
 - **data:** pasta que contém os dados utilizados como fonte de análise (arquivo da pasta raw_data) e os dados processados (aquivos da pasta processed_data) gerados durante a análise.
